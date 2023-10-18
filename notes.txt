@@ -1,0 +1,51 @@
+Notes Link => https://github.com/Raj2710/B50WD2T/tree/pricecard
+
+=>Class vs React
+    Class component: This not used in recent days.
+                    We create using Class
+    Function Component: We create using Function
+
+=>React Vs Angular
+    React=>
+        it was developed by FaceBook/Meta
+        It is Library -> We can create or we can borrow from third party.
+        It depends on NPM(node package manager)(ex=> table => MAterialUI table, HTML table, Bootstrap table)
+    Angular=>
+        It is developed by Google
+        It is a frame work -> the provide what you want.
+        It has own things(ex-> Angular table). No need to depend on other package.
+
+
+=>JSX=> JavaScript XML(Extend Markup Language)
+    It allows to  write HTML in React
+    <></> => for HTML
+    {} => for JavaScript
+
+Live Server vs npm run dev
+    Live Sever => 
+        it runs only HTML. It doesn't need JS or CSS.
+    npm run dev =>
+        It is also know as REACT.
+        It runs complete file. 
+        It need lot of support(node js, npm).
+
+Node_Module file.
+    we can see in all folder.
+    It is one of the package.
+    This is used to ReactDOM(in main.jsx)
+
+Diff between HTML and React
+                             |       HTML           |         REACT
+Comments                     |         //           |       {/*content*/}
+backslash in SelfClosing tag.|   <input><img>       | (<hr/>,<input/>,<img/>)
+className                    |       class          |         className
+javascript in .HTML          |      can't do        |           {code}
+
+=> Props
+Props is also known as PARAMETER
+We can only read.
+
+=>Conditional Rendering
+Rendering the react component based on condition.
+
+Pros and Cons of React
