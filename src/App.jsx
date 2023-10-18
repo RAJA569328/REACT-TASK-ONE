@@ -3,7 +3,7 @@ function App() {
   const X = [
     {
       plan: "FREE",
-      price: "0",
+      price: "0 /month",
       userEnabler:true,
       user: "Single User",
       Storage: "50GB storage",
@@ -23,7 +23,7 @@ function App() {
     },
     {
       plan: "PLUS",
-      price: "9",
+      price: "9 /month",
       user: "5 User",
       userbold:true,
       userEnabler:true,
@@ -45,7 +45,7 @@ function App() {
     },
     {
       plan: "PRO",
-      price: "49",
+      price: "49 /month",
       user: "Unlimited User",
       userbold:true,
       userEnabler:true,

@@ -7,7 +7,7 @@ function Card(props) {
           <div className="card mb-5 mb-lg-0">
             <div className="card-body">
               <h5 className="card-title text-muted text-uppercase text-center">{value.plan}</h5>
-              <h6 className="card-price text-center">${value.price}<span className="period">/month</span></h6>
+              <h6 className="card-price text-center">${value.price}</h6>
               <hr/>
               <ul className="fa-ul">
                 <li className={value.userEnabler?"":"text-muted"}><span className="fa-li"><i className={value.userEnabler?"fas fa-check":"fas fa-times"}></i></span>{value.user}</li>
